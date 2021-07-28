@@ -1,0 +1,202 @@
+﻿#EXTM3U cache=1000
+
+#EXTINF: 0 group-title="Українські",1+1
+http://77.52.12.75:8211/ch1
+
+#EXTINF: 0 group-title="Українські",2+2
+http://77.52.12.75:8213/ch1
+
+#EXTINF: 0 group-title="Українські",ІНТЕР
+http://77.52.12.75:8211/ch2
+
+#EXTINF: 0 group-title="Українські",Україна
+http://77.52.12.75:8211/ch4
+
+#EXTINF: 0 group-title="Українські",Новий канал
+http://77.52.12.75:8212/ch2
+
+#EXTINF: 0 group-title="Українські",ICTV
+http://77.52.12.75:8211/ch6
+
+#EXTINF: 0 group-title="Українські",СТБ
+http://77.52.12.75:8212/ch4
+
+#EXTINF: 0 group-title="Українські",Enter-фільм
+http://77.52.12.75:8211/ch5
+
+#EXTINF: 0 group-title="Українські",UA: ПЕРШИЙ
+http://77.52.12.75:8211/ch8
+
+#EXTINF: 0 group-title="Українські",Індиго
+http://77.52.12.75:8212/ch1
+
+#EXTINF: 0 group-title="Українські",ПРЯМИЙ
+http://77.52.12.75:8212/ch3
+
+#EXTINF: 0 group-title="Українські",ZOOM
+http://77.52.12.75:8212/ch8
+
+#EXTINF: 0 group-title="Українські",TET
+http://77.52.12.75:8212/ch7
+
+#EXTINF: 0 group-title="Українські",ЕСПРЕСО TV
+http://77.52.12.75:8213/ch2
+
+#EXTINF: 0 group-title="Українські",НЛО ТБ
+http://77.52.12.75:8213/ch4
+
+#EXTINF: 0 group-title="Українські",XSPORT
+http://77.52.12.75:8213/ch7
+
+#EXTINF: 0 group-title="Українські",М-Студіо
+http://77.52.12.75:8513/ch1
+
+#EXTINF: 0 group-title="Українські",21 канал
+http://77.52.12.75:8513/ch2
+
+#EXTINF: 0 group-title="Українські",K-1
+http://77.52.12.75:8211/ch7
+
+#EXTINF: 0 group-title="Українські",K-2
+http://77.52.12.75:8212/ch5
+
+#EXTINF: 0 group-title="Українські",НТН
+http://77.52.12.75:8211/ch3
+
+#EXTINF: 0 group-title="Українські",Мега
+http://77.52.12.75:8213/ch3
+
+#EXTINF: 0 group-title="ФІЛЬМИ",VIP Megahit
+http://77.52.12.75:8311/ch1
+
+#EXTINF: 0 group-title="ФІЛЬМИ",VIP Premiere
+http://77.52.12.75:8311/ch2
+
+#EXTINF: 0 group-title="ФІЛЬМИ",VIP Comedy
+http://77.52.12.75:8311/ch3
+
+#EXTINF: 0 group-title="ФІЛЬМИ",Hollywood HD
+http://77.52.12.75:8311/ch7
+
+#EXTINF: 0 group-title="ФІЛЬМИ",TV 1000
+http://77.52.12.75:8216/ch2
+
+#EXTINF: 0 group-title="ФІЛЬМИ",TV 1000 World kino
+http://77.52.12.75:8216/ch3
+
+#EXTINF: 0 group-title="ФІЛЬМИ",TV 1000 Action
+http://77.52.12.75:8216/ch4
+
+#EXTINF: 0 group-title="ФІЛЬМИ",Paramount Channel
+http://77.52.12.75:8216/ch5
+
+#EXTINF: 0 group-title="ФІЛЬМИ",Paramount Comedy
+http://77.52.12.75:8216/ch6
+
+#EXTINF: 0 group-title="ФІЛЬМИ",Sony Sci-Fi
+http://77.52.12.75:8216/ch7
+
+#EXTINF: 0 group-title="ФІЛЬМИ",Sony Turbo
+http://77.52.12.75:8216/ch8
+
+#EXTINF: 0 group-title="ФІЛЬМИ",FOX
+http://77.52.12.75:8216/ch1
+
+#EXTINF: 0 group-title="ФІЛЬМИ",FOX HD
+http://77.52.12.75:8311/ch4
+
+#EXTINF: 0 group-title="ДИТЯЧІ",ПЛЮСПЛЮС
+http://77.52.12.75:8213/ch5
+
+#EXTINF: 0 group-title="ДИТЯЧІ",Pixel
+http://77.52.12.75:8213/ch6
+
+#EXTINF: 0 group-title="ДИТЯЧІ",Disney
+http://77.52.12.75:8411/ch4
+
+#EXTINF: 0 group-title="ДИТЯЧІ",Cartoon Network
+http://77.52.12.75:8427/ch1
+
+#EXTINF: 0 group-title="ДИТЯЧІ",Nickelodeon
+http://77.52.12.75:8427/ch2
+
+#EXTINF: 0 group-title="ДИТЯЧІ",Nick Jr.
+http://77.52.12.75:8427/ch3
+
+#EXTINF: 0 group-title="ПІЗНАВАЛЬНІ",Viasat Explore
+http://77.52.12.75:8216/ch9
+
+#EXTINF: 0 group-title="ПІЗНАВАЛЬНІ",Viasat History
+http://77.52.12.75:8216/ch10
+
+#EXTINF: 0 group-title="ПІЗНАВАЛЬНІ",Viasat Nature
+http://77.52.12.75:8216/ch11
+
+#EXTINF: 0 group-title="ПІЗНАВАЛЬНІ",Viasat Nature/History HD
+http://77.52.12.75:8311/ch5
+
+#EXTINF: 0 group-title="МУЗИЧНІ",M1
+http://77.52.12.75:8212/ch6
+
+#EXTINF: 0 group-title="МУЗИЧНІ",MTV
+http://77.52.12.75:8427/ch4
+
+#EXTINF: 0 group-title="МУЗИЧНІ",MTV 90s
+http://77.52.12.75:8427/ch5
+
+#EXTINF: 0 group-title="МУЗИЧНІ",MTV 80s
+http://77.52.12.75:8427/ch6
+
+#EXTINF: 0 group-title="МУЗИЧНІ",VH1 European
+http://77.52.12.75:8427/ch7
+
+#EXTINF: 0 group-title="СПОРТ",EUROSPORT 2 HD
+http://77.52.12.75:8311/ch6
+
+#EXTINF: 0 group-title="СПОРТ",Viasat Sport
+http://77.52.12.75:8216/ch12
+
+#EXTINF: 0 group-title="HU",M1 HD
+http://77.52.12.75:8210/ch1
+
+#EXTINF: 0 group-title="HU",M2 HD
+http://77.52.12.75:8214/ch1
+
+#EXTINF: 0 group-title="HU",M4 HD
+http://77.52.12.75:8210/ch2
+
+#EXTINF: 0 group-title="HU",M5 HD
+http://77.52.12.75:8214/ch2
+
+#EXTINF: 0 group-title="HU",TV 2
+http://77.52.12.75:8214/ch3
+
+#EXTINF: 0 group-title="HU",SuperTV2
+http://77.52.12.75:8709/ch1
+
+#EXTINF: 0 group-title="HU",RTL Klub
+http://77.52.12.75:8214/ch4
+
+#EXTINF: 0 group-title="HU",Film Cafe
+http://77.52.12.75:8701/ch1
+
+#EXTINF: 0 group-title="HU",Film+
+http://77.52.12.75:8701/ch2
+
+#EXTINF: 0 group-title="HU",Filmbox Family
+http://77.52.12.75:8701/ch3
+
+#EXTINF: 0 group-title="HU",Minimax
+http://77.52.12.75:8701/ch4
+
+#EXTINF: 0 group-title="HU",Duna HD
+http://77.52.12.75:8210/ch3
+
+#EXTINF: 0 group-title="HU",Izaura TV
+http://77.52.12.75:8214/ch5
+
+#EXTINF: 0 group-title="HU",Dikh TV
+http://77.52.12.75:8214/ch6
+
+#EXTINF: 0 group-title="HU",Pesti TV
+http://77.52.12.75:8214/ch7

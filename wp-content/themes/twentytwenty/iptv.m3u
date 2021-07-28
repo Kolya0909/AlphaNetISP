@@ -1,0 +1,34 @@
+#EXTM3U cache=1000
+
+#EXTINF: 0 group-title="Новини",1+1
+http://77.52.12.159:8211/ch1
+
+#EXTINF: 0 group-title="Новини",ІНТЕР
+http://77.52.12.159:8211/ch2
+
+#EXTINF: 0 group-title="Новини",Україна
+http://77.52.12.159:8211/ch4
+
+#EXTINF: 0 group-title="Новини",Новий канал
+http://77.52.12.159:8212/ch2
+
+#EXTINF: 0 group-title="Новини",ICTV
+http://77.52.12.159:8211/ch6
+
+#EXTINF: 0 group-title="Новини",СТБ
+http://77.52.12.159:8212/ch4
+
+#EXTINF: 0 group-title="Новини",TET
+http://77.52.12.159:8212/ch7
+
+#EXTINF: 0 group-title="Новини",K-1
+http://77.52.12.159:8211/ch7
+
+#EXTINF: 0 group-title="Новини",K-2
+http://77.52.12.159:8212/ch5
+
+#EXTINF: 0 group-title="Новини",НТН
+http://77.52.12.159:8211/ch3
+
+#EXTINF: 0 group-title="Новини",Мега
+http://77.52.12.159:8213/ch3

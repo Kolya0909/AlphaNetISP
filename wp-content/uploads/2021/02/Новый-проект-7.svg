@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 87" width="36" height="28">
+	<defs>
+		<image width="102" height="81" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGYAAABRCAMAAAAXfiNFAAAAAXNSR0IB2cksfwAAAE5QTFRFV9ndV9ndV9ndV9ndV9ndV9ndV9ndV9ndV9ndV9ndV9ndV9ndV9ndV9ndV9ndV9ndV9ndV9ndV9ndV9ndV9ndV9ndV9ndV9ndV9ndV9ndjPHU/gAAABp0Uk5TAEB/TyCA/98QzzDvkK/AoLBg8HDgP59Qv9BD8OSIAAABj0lEQVR4nO3X63KDIBAFYLGyoCQajdXm/V+0GjMmmHhhM3s6dXL+yzfAskIU8aPir+SNz7dGE5GJLYLpIg3dGEozCENO1BkZcpLrdhgZOgoy+Z0hhWEKDEMgRm7VPEbvisn/O0N/wJwwjFwJYJjMY8SOZ+kxYr8C/ahUUop/bMQKzXprdpZi/K0Rq4ACUgHWeYyQEp09pZZijMdINU6/AMQYA2H8nZEqgcxNme/Z8BWbTpWlNNwz1YQo3UWe96ZrwxSiH46SPG3MajjTCdqYIYzGqtdH3cxYvygfJq0YyiwzGex+bbHm9UBrTBk/R80zh9fjLKea/NHHUecY1pJRu50Z5smoMqIy2s5wxu+TFtf6kWaITAZhiDIMYzBMNx0Ioz5MeDB7U+/o3NQK0AXccH+Sn41DdOg+Af+bdxhUT9tXF9gXk0CYHFJpFaSn5QmiCxwVpqdRA+ppGsO4T08TZS4YJkrOfGl7T4uu0omlFKFvz+71qV99sZiLDWf6ZK0+5dVGpNb9DarUz1l4sDPzC1PCc5tGYr6XAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Слой 1" href="#img1" x="4" y="3" />
+</svg>

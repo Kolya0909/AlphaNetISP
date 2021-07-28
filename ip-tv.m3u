@@ -1,0 +1,57 @@
+﻿#EXTM3U cache=1000
+#EXTINF:0,1+1
+http://77.52.12.75:8211/ch1
+#EXTINF:0,2+2
+http://77.52.12.75:8213/ch1
+#EXTINF:0,ІНТЕР
+http://77.52.12.75:8211/ch2
+#EXTINF:0,Україна
+http://77.52.12.75:8211/ch4
+#EXTINF:0,Новий канал
+http://77.52.12.75:8212/ch2
+#EXTINF:0,ICTV
+http://77.52.12.75:8211/ch6
+#EXTINF:0,СТБ
+http://77.52.12.75:8212/ch4
+#EXTINF:0,Enter-фільм
+http://77.52.12.75:8211/ch5
+#EXTINF:0,UA: ПЕРШИЙ
+http://77.52.12.75:8211/ch8
+#EXTINF:0,Індиго
+http://77.52.12.75:8212/ch1
+#EXTINF:0,ПРЯМИЙ
+http://77.52.12.75:8212/ch3
+#EXTINF:0,M1
+http://77.52.12.75:8212/ch6
+#EXTINF:0,ZOOM
+http://77.52.12.75:8212/ch8
+#EXTINF:0,TET
+http://77.52.12.75:8212/ch7
+#EXTINF:0,ЕСПРЕСО TV
+http://77.52.12.75:8213/ch2
+#EXTINF:0,НЛО ТБ
+http://77.52.12.75:8213/ch4
+#EXTINF:0,ПЛЮСПЛЮС
+http://77.52.12.75:8213/ch5
+#EXTINF:0,Pixel
+http://77.52.12.75:8213/ch6
+#EXTINF:0,XSPORT
+http://77.52.12.75:8213/ch7
+#EXTINF:0,М-Студіо
+http://77.52.12.75:8513/ch1
+#EXTINF:0,21 канал
+http://77.52.12.75:8513/ch2
+#EXTINF:0,K-1
+http://77.52.12.75:8211/ch7
+#EXTINF:0,K-2
+http://77.52.12.75:8212/ch5
+#EXTINF:0,НТН
+http://77.52.12.75:8211/ch3
+#EXTINF:0,Мега
+http://77.52.12.75:8213/ch3
+#EXTINF:0,VIP Megahit
+http://77.52.12.75:8311/ch1
+#EXTINF:0,VIP Premiere
+http://77.52.12.75:8311/ch2
+#EXTINF:0,VIP Comedy
+http://77.52.12.75:8311/ch3

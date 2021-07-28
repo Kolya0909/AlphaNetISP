@@ -1,0 +1,10 @@
+# BEGIN WordPress
+# Директиви (рядки) між `BEGIN WordPress` і `END WordPress`
+# створені автоматично і підлягають змінам тільки через фільтри WordPress.
+# Зміни зроблені вручну між цими маркерами будуть перезаписані.
+
+<IfModule mod_mime . c>
+AddType application/xml atom rdf rss xml
+</IfModule>
+
+# END WordPress
